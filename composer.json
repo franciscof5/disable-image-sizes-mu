@@ -1,5 +1,5 @@
 {
-	"name": "f5sites/disable-image-sizes-mu",
+	"name": "f5sites/f5sites-disable-image-sizes",
 	"description": "Quick disable wordpress images sizes. WordPress F5 Sites DEV projects.",
 	"type": "wordpress-muplugin",
 	"authors": [
