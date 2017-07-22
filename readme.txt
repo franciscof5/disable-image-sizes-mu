@@ -1,6 +1,7 @@
 === F5 Sites | Disable Images Sizes ===
 Contributors: f5sites, franciscof5
 Tags: images, wpmu
+Version: 1.0
 Stable tag: 1.0
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -28,4 +29,4 @@ https://www.f5sites.com/software/wordpress/f5sites-disable-image-sizes)
 == ChangeLog ==
 
 = 1.0 =
-Initial release
+* Initial release
